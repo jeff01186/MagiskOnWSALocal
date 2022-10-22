@@ -1,5 +1,0 @@
-*.sh text eol=lf
-*.exe binary
-*.apk binary
-*.so binary
-*.xml text eol=crlf
